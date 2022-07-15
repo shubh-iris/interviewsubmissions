@@ -1,0 +1,68 @@
+.topbar {
+    background-color: #28373e;
+    height: 53px;
+    width: 100%;
+    position: absolute;
+  
+    overflow: hidden;
+  }
+  
+  .topBarHeader {
+    float: left;
+    position: absolute;
+    top: 9px;
+    left: 15%;
+  }
+  .topBarHeader h3 {
+    color: hsl(177deg 72% 50%);
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  .bottomTopBar {
+    background-color: #8198a0;
+    overflow: hidden;
+  
+    height: 370px;
+    position: relative;
+    width: 100%;
+  }
+  .headq {
+    top: 40%;
+    left: 15%;
+    height: 134px;
+    width: 50%;
+    overflow: hidden;
+    position: relative;
+  }
+  .mark,
+mark {
+  color: white;
+  padding: 0.1875em;
+  background-color: #eeac56;
+}
+.rightMenu {
+  padding-right: 15%;
+  float: right;
+  overflow: hidden;
+}
+.rightMenu a {
+  float: right;
+  color: #8198a0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+.rightMenu a:hover {
+  background-color: #181e21;
+  border-bottom: 20px solid red;
+  color: whitesmoke;
+}
+.head {
+  background-color: #28373e;
+  height: 104px;
+  width: 100%;
+  position: absolute;
+
+  overflow: hidden;
+}

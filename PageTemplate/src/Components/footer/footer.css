@@ -1,0 +1,38 @@
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 211px;
+  background-color: #28373e;
+  color: white;
+  text-align: center;
+}
+.footer b {
+  color: white;
+}
+.footer p {
+  color: #6c7d83;
+}
+
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+.container1 {
+  padding-top: 50px;
+  margin-left: 480px;
+  float: left;
+}
+.container2 {
+  padding-top: 50px;
+  margin-left: 100px;
+  float: left;
+}
+.container3 {
+  padding-top: 50px;
+  margin-left: 100px;
+  float: left;
+}

@@ -1,0 +1,134 @@
+.userinfo {
+    background-color: #e9e7e8;
+    box-shadow: inset;
+    border-radius: 2%;
+    top: 711px;
+    left: 1175px;
+    right: 15%;
+    height: 1000px;
+    width: 247px;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: inset;
+  }
+  .d1 {
+    position: relative;
+    top: 92px;
+    width: 80%;
+    left: 12px;
+  }
+  td {
+    text-align: left;
+    color: #181e21;
+  }
+  th {
+    color: #181e21;
+  }
+  table {
+    margin-left: 10px;
+    border: 20px;
+  }
+  th,
+  td {
+    padding-inline: 10px;
+    padding-top: 5px;
+  }
+  .parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+    position: absolute;
+    border-radius: 1%;
+    height: 115px;
+    width: 100%;
+  }
+  .image2 {
+    position: relative;
+    height: 84px;
+    width: auto;
+    top: 74px;
+    left: 80px;
+    border-radius: 100%;
+    border: 5px whitesmoke solid;
+  }
+  .headq h2 {
+    word-wrap: break-word;
+    position: absolute;
+  }
+  .details {
+    position: absolute;
+    background-color: #8198a0;
+  }
+  .formWrapper {
+    position: relative;
+    top: 125px;
+    background-color: #d7d3d2;
+    height: 363px;
+  }
+  .formWrapper input {
+    margin-left: 8px;
+    width: 100%;
+    border-radius: 4%;
+    border: #e9e7e8;
+  }
+  .formWrapper h6 {
+    padding-top: 28px;
+    margin-left: 26px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #181e21;
+  }
+  .formWrapper button {
+    margin-left: 10px;
+    padding: 5px;
+    width: 90%;
+    border-radius: 6px;
+    color: #f6fbf9;
+    background-color: #18beb3;
+    border: 0ch;
+    margin-top: 16px;
+  }
+  .formWrapper button:hover {
+    background-color: #50c5bd;
+  }
+  .locate {
+    position: absolute;
+    top: 667px;
+    height: 363px;
+    width: 100%;
+    word-wrap: break-word;
+  }
+  .locate h6 {
+    padding-top: 21px;
+    margin-left: 4px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 18px;
+  }
+  .locate img {
+    padding-top: 20px;
+    position: absolute;
+    border-radius: 1%;
+    height: 140px;
+    width: 100%;
+  }
+  .locate h7 {
+    padding-top: 170px;
+    margin-left: 4px;
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+  }
+  .locate p {
+    top: 228px;
+    position: absolute;
+    padding: 10px;
+    color: black;
+    font-weight: 500;
+  }
+  
+  

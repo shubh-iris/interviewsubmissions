@@ -1,0 +1,70 @@
+.textboxdiv {
+  margin-left: 15%;
+
+  margin-top: -187px;
+
+  width: 881px;
+  height: 1500px;
+
+  overflow: hidden;
+  position: relative;
+}
+.para {
+  width: 881px;
+  height: 700px;
+  position: absolute;
+}
+.corner {
+  left: 461px;
+  top: 30%;
+  width: 425px;
+  height: 300px;
+  position: absolute;
+}
+.textboxdiv h2 {
+  color: rgb(32 33 36);
+  padding-bottom: 25px;
+  font-weight: bolder;
+}
+.textboxdiv h6 {
+  color: rgb(32 33 36);
+  padding-bottom: 10px;
+  word-spacing: 10px;
+  font-size: 18px;
+}
+.textboxdiv p {
+  color: rgb(32 33 36);
+  padding-bottom: 12px;
+}
+.corner {
+  font-style: oblique;
+}
+.textboxdiv h5 {
+  color: rgb(31, 27, 27);
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+}
+
+.textboxdiv h5:before,
+.textboxdiv h5:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 4px solid #000;
+  margin: auto;
+}
+.horitem {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.horiright {
+  color: hsl(177deg 72% 50%);
+  float: right;
+  margin-right: 440px;
+}
+.horiright h4 {
+  font-weight: bolder;
+  font-size: 23px;
+}

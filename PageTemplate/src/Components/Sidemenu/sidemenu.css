@@ -1,0 +1,31 @@
+.vertical-menu {
+    border-radius: 2%;
+    margin-top: 60px;
+    width: 247px;
+    margin-left: 1175px;
+  
+    border: 0.5px solid black;
+  }
+  .vertical-menu h4 {
+    margin-bottom: 13px;
+    padding-top: 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+  }
+  
+  .vertical-menu a {
+    background-color: rgb(255, 255, 255); /* Grey background color */
+    color: hsl(177deg 72% 50%); /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 5px; /* Add some padding */
+    text-decoration: none;
+    font-weight: bolder; /* Remove underline from links */
+  }
+  
+  .vertical-menu a:hover {
+    background-color: hsl(177deg 72% 50%);
+    color: whitesmoke;
+    /* Dark grey background on mouse-over */
+  }
